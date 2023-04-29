@@ -1,5 +1,5 @@
 # Non-empty readme file
-in future inner readme files will contain lot of information for study purposes
+in future inner readme files will contain lot of information for study purposes and practise
 
 ## Notes
 **Here are some few important commands to use around the tasks**
